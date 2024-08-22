@@ -29,7 +29,8 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "extension@japans_save_to_notion"
+      "id": "extension@japans_save_to_notion",
+      "update_url": "https://github.com/laurenttainturier/Sync-Map-Notion/blob/master/updates.json"
     }
   }
 }

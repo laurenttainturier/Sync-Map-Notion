@@ -1,7 +1,8 @@
 {
   "scripts": {
     "lint": "web-ext lint",
-    "start": "web-ext run -t firefox-android --adb-device adb-841e8e9a-7t5bJD._adb-tls-connect._tcp. --firefox-apk org.mozilla.fenix"
+    "start": "web-ext run -t firefox-android --adb-device adb-841e8e9a-7t5bJD._adb-tls-connect._tcp. --firefox-apk org.mozilla.fenix",
+    "build": "web-ext build"
   },
   "devDependencies": {
     "web-ext": "^8.2.0"
